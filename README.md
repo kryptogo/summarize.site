@@ -4,6 +4,12 @@ Browser Extension to summarize web page content using ChatGPT, support Chrome (m
 
 [![Watch the video](./assets/screenshot.png)](https://www.youtube.com/watch?v=87IiZSrF9HI)
 
+## Prompt Engineering
+
+Harness the power of "Prompt Engineering" with the "Summarize.site". This innovative extension integrates tailored planning prompts into your workflow, making every plan more than just a list—it's your blueprint for success. Whether you're managing projects, handling assignments, or plotting ventures, "Summarize.site" anticipates and meets your planning needs. Your goals are now only a click away.
+
+[Template](https://github.com/kryptogo/summarize.site/blob/master/lib/prompts.js)
+
 ## Installation
 
 ### Install to Chrome/Edge
